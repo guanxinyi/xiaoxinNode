@@ -1,0 +1,22 @@
+{
+  "name": "xiaoxinnode",
+  "version": "1.0.0",
+  "description": "node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/guanxinyi/xiaoxinNode.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "guanxinyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guanxinyi/xiaoxinNode/issues"
+  },
+  "homepage": "https://github.com/guanxinyi/xiaoxinNode#readme"
+}
